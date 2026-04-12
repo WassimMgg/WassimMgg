@@ -28,4 +28,4 @@ My main programming languages is Python. For my daily driver and development env
 
 📫 How can someone to reach me ?
 
-You can reach out to me via meguellatiwassim1@gmail.com .
+You can reach out to me via meguellatiwassim1@gmail.com or my LinkedIn account.
