@@ -17,5 +17,9 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=WassimMgg&theme=dark&hide_border=false" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=WassimMgg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
