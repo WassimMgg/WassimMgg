@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 👋 Who I'm ?<br><br>Hi, I'm Wassim Meguellati! I am a Computer Science Master's student and the former head of the "Tech Geeks" university club. and right now i'm doing my Erasmus at Poland.<br><br>🔭 What I'm currently working on ?<br><br>I am currently learning about Artificial Intelligence and Data Science, while continuously sharpening my Backend skills.<br><br>💻 What tools do I use ?<br><br>My main programming languages is Python. For my daily driver and development environment, I am a learning how to use Arch Linux with Hyprland.<br><br>
 
