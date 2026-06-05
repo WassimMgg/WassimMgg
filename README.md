@@ -35,7 +35,7 @@ Hello! I'm **Wassim Meguellati**, a Computer Science Master's student. I Like an
 
 <br/>
 
-<img width="240" src="./Profile_Picture.jpg" />
+<img width="240" src="./Aestethic_tech_image.jpg" />
 
 </td>
 </tr>
