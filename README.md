@@ -1,92 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a3a1a,60:2d5a27,100:4a7c59&height=250&section=header&text=WASSIM%20MEGUELLATI&fontSize=50&fontColor=ffffff&fontAlignY=40&stroke=5bba6f&strokeWidth=2&desc=⛏️%20Computer%20Science%20Student%20|%20Backend%20Dev%20|%20AI%20Explorer%20⛏️&descSize=15&descColor=a3c9a8&descAlignY=60&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,35:1B4332,70:2D6A4F,100:52B788&text=Wassim%20Meguellati&fontSize=52&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Artificial%20Intelligence%20•%20Backend%20Engineering%20•%20Data%20Science&descAlignY=58&descSize=18"/>
 
-<br/>
+# Wassim Meguellati
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=5BBA6F&center=true&vCenter=true&width=700&height=50&lines=Welcome+to+my+GitHub+world+%F0%9F%8C%8D;Erasmus+Student+%40+Poland+%F0%9F%87%B5%F0%9F%87%B1;Crafting+backends+%26+AI+solutions...;Loading+new+skills+daily+%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91" />
-</a>
+### Master's Student in Computer Science
 
+<p>
+  <a href="mailto:meguellatiwassim1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/WassimMgg">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/meguellati_wassim">
+    <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2d5a27&height=3" width="100%"/>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=2d5a27&height=3" width="100%"/>
-
-<br/>
-
-## 🪪 Player Card
-
-<div align="center">
-
-| | |
-|---|---|
-| 👤 **Name** | Wassim Meguellati |
-| 🎓 **Role** | CS Master's Student |
-| 🌍 **Location** | Erasmus @ Poland 🇵🇱 · Algeria 🇩🇿 |
-| 🏆 **Achievement** | Former Head of "Tech Geeks" Club |
-| 🔬 **Studying** | AI · Data Science · Backend Dev |
-| 🐍 **Main Language** | Python |
-| 📬 **Contact** | meguellatiwassim1@gmail.com |
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=52B788&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Enthusiast;Backend+Developer+using+Python+%26+Django;Building+Scalable+and+Intelligent+Systems;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-## ⚒️ Hotbar — Tech Stack
+# 👨‍💻 About Me
+
+```yaml
+name: Wassim Meguellati
+
+education:
+  - Master's in Computer Science
+
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Science
+  - Backend Development
+  - Software Engineering
+
+currently_exploring:
+  - Large Language Models
+  - Deep Learning
+  - Natural Language Processing
+
+goal:
+  Building intelligent and impactful software solutions.
+```
+
+---
+
+# ⚡ Tech Stack
 
 <div align="center">
 
-**[ Languages ]**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,c,cs,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cs,html,css&theme=dark"/>
 
-**[ Frameworks & Libraries ]**
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=django,react,nodejs,jquery&theme=dark" />
+<img src="https://skillicons.dev/icons?i=django,nodejs,postgres,mysql&theme=dark"/>
 
-**[ Databases & Tools ]**
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,git,docker,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,jquery&theme=dark"/>
 
-**[ AI & Data Science ]**
+### Artificial Intelligence & Data Science
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-## 📦 Inventory — GitHub Stats
+# 🧠 Areas of Interest
 
 <div align="center">
 
-
-<img src="https://streak-stats.demolab.com/?user=WassimMgg&theme=merko&hide_border=true&ring=5bba6f&fire=f9a825&currStreakLabel=5bba6f&sideLabels=a3c9a8&background=0d1117&border_radius=10" width="55%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WassimMgg&theme=mergo&hide_border=true&area=true&area_color=2d5a27&line=5bba6f&point=f9a825&bg_color=0d1117&color=a3c9a8" width="95%"/>
+| Artificial Intelligence | Backend Engineering   |
+| ----------------------- | --------------------- |
+| Machine Learning        | REST APIs             |
+| Deep Learning           | System Design         |
+| NLP                     | Database Design       |
+| LLMs                    | Scalable Applications |
+| Data Science            | Software Architecture |
 
 </div>
 
 ---
 
-## 🌐 Spawn Point — Socials
+# 🌱 Currently Learning
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=5bba6f&labelColor=0d1117)](https://instagram.com/meguellati_wassim)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=5bba6f&labelColor=0d1117)](mailto:meguellatiwassim1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=5bba6f&labelColor=0d1117)](https://github.com/WassimMgg)
+```text
+███████████████████░░ 90%  Artificial Intelligence
+
+█████████████████░░░░ 85%  Machine Learning
+
+████████████████░░░░░ 80%  Deep Learning
+
+```
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a1a,100:2d5a27&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=5bba6f&fontAlignY=65&animation=fadeIn" width="100%"/>
+# 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WassimMgg&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 💭 Quote
+
+<div align="center">
+
+### "Burn Your Ships & Move on."
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1B4332,100:52B788"/>
+
+</div>
