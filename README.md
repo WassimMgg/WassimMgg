@@ -1,138 +1,68 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,35:1B4332,70:2D6A4F,100:52B788&text=Wassim%20Meguellati&fontSize=52&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Artificial%20Intelligence%20•%20Backend%20Engineering%20•%20Data%20Science&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c08,50:2d1f0a,100:3d2b0f&height=200&section=header&text=Wassim%20Meguellati&fontSize=48&fontColor=d4a843&fontAlignY=40&desc=Computer%20Science%20Student%20·%20Backend%20·%20AI&descSize=16&descColor=c8b08a&descAlignY=62&animation=fadeIn" width="100%" />
 
-# Wassim Meguellati
-
-### Master's Student in Computer Science
-
-<p>
-  <a href="mailto:meguellatiwassim1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/WassimMgg">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/meguellati_wassim">
-    <img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=52B788&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Enthusiast;Backend+Developer+using+Python+%26+Django;Building+Scalable+and+Intelligent+Systems;Always+Learning+Something+New"/>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-1a1209?style=for-the-badge&logo=linkedin&logoColor=d4a843" /></a>
+<a href="https://instagram.com/meguellati_wassim"><img src="https://img.shields.io/badge/Instagram-1a1209?style=for-the-badge&logo=instagram&logoColor=d4a843" /></a>
+<a href="mailto:meguellatiwassim1@gmail.com"><img src="https://img.shields.io/badge/Email-1a1209?style=for-the-badge&logo=gmail&logoColor=d4a843" /></a>
 
 </div>
 
----
+<br/>
 
-# 👨‍💻 About Me
+## &nbsp; 👋 &nbsp; About me
 
-```yaml
-name: Wassim Meguellati
+<table>
+<tr>
+<td width="62%" valign="top">
 
-education:
-  - Master's in Computer Science
+<br/>
 
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-  - Backend Development
-  - Software Engineering
+Hello! I'm **Wassim Meguellati**, a Computer Science Master's student. I Like anything related to tech.
 
-currently_exploring:
-  - Large Language Models
-  - Deep Learning
-  - Natural Language Processing
-
-goal:
-  Building intelligent and impactful software solutions.
-```
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,javascript,c,cs,html,css&theme=dark"/>
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=django,nodejs,postgres,mysql&theme=dark"/>
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,jquery&theme=dark"/>
-
-### Artificial Intelligence & Data Science
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode&theme=dark"/>
-
-</div>
-
----
-
-# 🧠 Areas of Interest
-
-<div align="center">
-
-| Artificial Intelligence | Backend Engineering   |
-| ----------------------- | --------------------- |
-| Machine Learning        | REST APIs             |
-| Deep Learning           | System Design         |
-| NLP                     | Database Design       |
-| LLMs                    | Scalable Applications |
-| Data Science            | Software Architecture |
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
+<br/>
 
 ```text
-███████████████████░░ 90%  Artificial Intelligence
-
-█████████████████░░░░ 85%  Machine Learning
-
-████████████████░░░░░ 80%  Deep Learning
-
+🎓  Master's in Computer Science — Erasmus @ Poland 🇵🇱
+🏆  Former Head of "Tech Geeks" university club
+🔭  Exploring AI & Data Science
+🐍  Main language: Python
+🌱  Always learning, always building
 ```
 
-</div>
+</td>
+<td width="38%" valign="top" align="center">
 
----
+<br/>
 
-# 📊 Activity Graph
+<img width="240" src="./Profile_Picture.jpg" />
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WassimMgg&theme=github-compact&hide_border=true"/>
+<br/>
 
-</div>
-
----
-
-# 💭 Quote
-
-<div align="center">
-
-### "Burn Your Ships & Move on."
-
-</div>
-
----
+## &nbsp; 🛠️ &nbsp; Tech Stack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:1B4332,100:52B788"/>
+![Python](https://img.shields.io/badge/Python-1a1209?style=for-the-badge&logo=python&logoColor=d4a843)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1209?style=for-the-badge&logo=javascript&logoColor=d4a843)
+![C](https://img.shields.io/badge/C-1a1209?style=for-the-badge&logo=c&logoColor=d4a843)
+![C#](https://img.shields.io/badge/C%23-1a1209?style=for-the-badge&logo=csharp&logoColor=d4a843)
+![HTML5](https://img.shields.io/badge/HTML5-1a1209?style=for-the-badge&logo=html5&logoColor=d4a843)
+
+![Django](https://img.shields.io/badge/Django-1a1209?style=for-the-badge&logo=django&logoColor=d4a843)
+![React](https://img.shields.io/badge/React-1a1209?style=for-the-badge&logo=react&logoColor=d4a843)
+![Node.js](https://img.shields.io/badge/Node.js-1a1209?style=for-the-badge&logo=node.js&logoColor=d4a843)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1209?style=for-the-badge&logo=postgresql&logoColor=d4a843)
+![MySQL](https://img.shields.io/badge/MySQL-1a1209?style=for-the-badge&logo=mysql&logoColor=d4a843)
+
+![NumPy](https://img.shields.io/badge/NumPy-1a1209?style=for-the-badge&logo=numpy&logoColor=d4a843)
+![Pandas](https://img.shields.io/badge/Pandas-1a1209?style=for-the-badge&logo=pandas&logoColor=d4a843)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1209?style=for-the-badge&logo=scikit-learn&logoColor=d4a843)
+![Git](https://img.shields.io/badge/Git-1a1209?style=for-the-badge&logo=git&logoColor=d4a843)
+![Docker](https://img.shields.io/badge/Docker-1a1209?style=for-the-badge&logo=docker&logoColor=d4a843)
 
 </div>
